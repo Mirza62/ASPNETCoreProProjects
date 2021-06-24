@@ -1,0 +1,7 @@
+D:\Github\ASPNETCoreProProjects\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.csproj.AssemblyReference.cache
+D:\Github\ASPNETCoreProProjects\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.AssemblyInfoInputs.cache
+D:\Github\ASPNETCoreProProjects\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.AssemblyInfo.cs
+D:\Github\ASPNETCoreProProjects\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.csproj.CoreCompileInputs.cache
+D:\Github\ASPNETCoreProProjects\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\ASPNETCoreProProjects\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.RazorAssemblyInfo.cache
+D:\Github\ASPNETCoreProProjects\LanguageFeatures\obj\Debug\netcoreapp3.1\LanguageFeatures.RazorAssemblyInfo.cs
